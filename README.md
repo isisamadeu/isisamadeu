@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @isisamadeu
+- 👀 I study System Analysis and Development
+- 🌱 I’m currently learning web development
+- 📫 How to reach me: amadeu.isis@gmail.com
